@@ -30,3 +30,4 @@ print(type(x))
 # TO DO 4: Dynamic Typing: 
 # Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of the variable `x` again.
 # What did you observe?
+# 

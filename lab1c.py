@@ -11,4 +11,4 @@
 # import math module.
 # Create a variable called 'radius' and take its value form user.
 # Convert the variable to integer using int()
-# use the contant pi form math module and compute the area of the circle using the variable 'radius'
+# use the constant pi form math module and compute the area of the circle using the variable 'radius'
