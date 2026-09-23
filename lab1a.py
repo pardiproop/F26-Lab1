@@ -35,3 +35,4 @@ print(type(x))
 # (1) There are two ways the user can print "Python is the Future" by either using newstring as a variable and printing it or having message 
 # varible in brackets to print the message.
 # (2) The value "x" got assigned to two variables and changed from integer to string without assigning or creating a new value or variable.
+# From the lecture in week 2, this is allowed in python but causes errors in other languages.
