@@ -8,9 +8,9 @@
 message="Welcome to PRG101" # this prints a welcome message to the user
 print(message) # this is the print message function/feature
 print(type(message)) # this prints the type of message
-newstring=message+"Python is Future" # 
-# print(message+"Python is Future")
+newstring=message+"Python is the Future" # 
 print(newstring)
+# Another way to print this message is by writing: print(message+"Python is the Future")
 x=10
 print(type(x))
 x="hello"
