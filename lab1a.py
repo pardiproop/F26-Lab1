@@ -32,5 +32,6 @@ x="hello"
 print(type(x))
 
 # What did you observe?
-# (1) There are two ways the user can print "Python is the Future" by either using newstring as a variable and printing it or having message varible in brackets to print the message.
+# (1) There are two ways the user can print "Python is the Future" by either using newstring as a variable and printing it or having message 
+# varible in brackets to print the message.
 # (2) The value "x" got assigned to two variables and changed from integer to string without assigning or creating a new value or variable.
